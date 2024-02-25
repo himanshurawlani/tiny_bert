@@ -12,4 +12,15 @@ These exercises are designed to allow you to showcase your engineering and probl
 
 These tasks were chosen as a setting to see how you think about problems, even if they are not in your own research field of interest. The tasks and dataset are not meant to be indicative of the research goals of the Scholar Program.
 
+## Study Materials
+
+1. Attention is All You Need: https://arxiv.org/abs/1706.03762
+2. Andrej Karpathy's Let's build GPT from scratch: https://www.youtube.com/watch?v=kCc8FmEb1nY
+3. The Illustrated Transformer: http://jalammar.github.io/illustrated-transformer/
+4. Huggingface's BERT implementation: https://github.com/huggingface/transformers/blob/main/src/transformers/models/bert/modeling_bert.py
+5. Sentence Transformers STS Training: https://www.sbert.net/examples/training/sts/README.html
+6. Sentence Transformers NLI Training: https://www.sbert.net/examples/training/nli/README.html
+7. Contrastive loss: https://www.sbert.net/examples/training/quora_duplicate_questions/README.html#constrative-loss
+8. MultipleNegativesRanking Loss: https://www.sbert.net/examples/training/nli/README.html#multiplenegativesrankingloss
+
 Good luck!
